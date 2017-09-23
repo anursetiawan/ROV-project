@@ -4,12 +4,13 @@
 `NanoReceiverSerial` is the sketch for on-board Arduino Nano, `UnoSenderSerial` is for the remote which is running on Arduino Uno.
 
 ## Current problems:
-* Vague baud-rate value. 9600 is too slow, 2000000 is too fast and causing clog-up
+~~* Vague baud-rate value. 9600 is too slow, 2000000 is too fast and causing clog-up~~
 * Hacked-together basic serial communication, not a proper one
 
 ## Finished problems:
 * Basic function separately
 * Rudimentary communication
+* Settle baud-rate at 115200, since it is pretty standard and also fast enough
  
 ## Tutorial:
 **Ubuntu**
