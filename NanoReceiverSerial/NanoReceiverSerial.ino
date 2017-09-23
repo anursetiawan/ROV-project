@@ -33,8 +33,8 @@ const int lamp = 13;
 
 void setup() {                    // put your setup code here, to run once:
 
-Serial.begin(2000000); // serial baud rate, make sure this is the same with Serial Monitor
-Serial.setTimeout(1); // gotta go fast
+Serial.begin(115200); // serial baud rate, make sure this is the same with Serial Monitor
+Serial.setTimeout(1000); // gotta go fast
 
 // this block is for motor driver I
 pinMode(pwmA, OUTPUT);
