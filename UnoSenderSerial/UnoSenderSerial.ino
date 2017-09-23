@@ -28,8 +28,8 @@ void setup() {
 
   pinMode(LED_BUILTIN, OUTPUT);
   
-  Serial.begin(2000000);
-  Serial.setTimeout(1); // gotta go fast
+  Serial.begin(115200);
+  Serial.setTimeout(1000); // gotta go fast
 }
 
 void loop() {
