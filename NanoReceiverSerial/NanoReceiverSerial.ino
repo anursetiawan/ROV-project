@@ -77,7 +77,7 @@ digitalWrite(lamp, LOW);
 
 Serial.println("READY");
 Serial.println("-----");
-delay(100);
+delay(500);
 mStop();
 motorState();
 }
