@@ -42,7 +42,7 @@ void loop() {
   menuState();
   
 //  Serial.print(xValue), Serial.print(" | "), Serial.println(yValue);
-  delay(500);
+  delay(100);
 
 }
 
@@ -113,7 +113,7 @@ void buttonState() {
 
 void menuState() {
   if (digitalRead(menuButton) == 0) {
-    delay(500);
+    delay(100);
     if (lampState == LOW) {
       menuValue = "1";
       lampState = HIGH;
