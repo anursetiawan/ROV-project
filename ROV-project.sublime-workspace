@@ -1,0 +1,718 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tes",
+				"testMode"
+			],
+			[
+				"lam",
+				"lampTrigger"
+			],
+			[
+				"di",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"digi",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"L",
+				"LOW"
+			],
+			[
+				"lamp",
+				"lampButtonReading"
+			],
+			[
+				"las",
+				"lastLampDebounceTime"
+			],
+			[
+				"deb",
+				"debounceDelay"
+			],
+			[
+				"lo",
+				"loadState"
+			],
+			[
+				"dig",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"con",
+				"controlInterval"
+			],
+			[
+				"mai",
+				"mainRemote"
+			],
+			[
+				"IN",
+				"INPUT"
+			],
+			[
+				"butt",
+				"butt3Value"
+			],
+			[
+				"bu",
+				"butt2Value"
+			],
+			[
+				"joy",
+				"joystickRightButtValue"
+			],
+			[
+				"jo",
+				"joystickRightValue"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"joystickl",
+				"joystickLeftButtValue"
+			],
+			[
+				"joystickR",
+				"joystickRightState"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"inp",
+				"inputPullupPinMode"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"INPU",
+				"INPUT_PULLUP"
+			],
+			[
+				"Se",
+				"Serial"
+			],
+			[
+				"se",
+				"Serial"
+			],
+			[
+				"in",
+				"inputPinMode"
+			],
+			[
+				"pin",
+				"pinMode\tArduino pinMode"
+			],
+			[
+				"seri",
+				"serialDebug"
+			],
+			[
+				"roll",
+				"rollRight"
+			],
+			[
+				"upw",
+				"upward"
+			],
+			[
+				"yaw",
+				"yawRight"
+			],
+			[
+				"m",
+				"millis\tArduino millis()"
+			],
+			[
+				"test",
+				"testTimeElapsed"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"te",
+				"testTimeElapsed"
+			],
+			[
+				"all",
+				"allStop"
+			],
+			[
+				"be",
+				"break"
+			],
+			[
+				"la",
+				"lampTrigger"
+			],
+			[
+				"driv",
+				"driver1Pin"
+			],
+			[
+				"forwa",
+				"forwardLeft"
+			],
+			[
+				"for",
+				"forwardLeft"
+			],
+			[
+				"down",
+				"downwardRight"
+			],
+			[
+				"dow",
+				"downward"
+			],
+			[
+				"upwa",
+				"upwardRight"
+			],
+			[
+				"up",
+				"upwardLeft"
+			],
+			[
+				"backw",
+				"backwardRight"
+			],
+			[
+				"bac",
+				"backward"
+			],
+			[
+				"ya",
+				"yawLeft"
+			],
+			[
+				"fow",
+				"forwardRight"
+			],
+			[
+				"fo",
+				"forward"
+			],
+			[
+				"drive",
+				"driver1Pin"
+			],
+			[
+				"dri",
+				"driver2Pin"
+			],
+			[
+				"dir",
+				"driver1Pin"
+			],
+			[
+				"res",
+				"restMode"
+			],
+			[
+				"testm",
+				"testMode"
+			],
+			[
+				"remot",
+				"remoteCheck"
+			],
+			[
+				"Seria",
+				"Serial"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"debu",
+				"debugInterval"
+			],
+			[
+				"Seri",
+				"Serial"
+			],
+			[
+				"mode",
+				"modeSet"
+			],
+			[
+				"rem",
+				"remoteCheck"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"load",
+				"loadTrigger"
+			],
+			[
+				"digita",
+				"digitalWrite\tArduino digitalWrite"
+			],
+			[
+				"l",
+				"lampTrigger"
+			],
+			[
+				"Re",
+				"Remote"
+			],
+			[
+				"dis",
+				"disModeState"
+			],
+			[
+				"dism",
+				"disModeState"
+			],
+			[
+				"r",
+				"remoteState"
+			],
+			[
+				"int",
+				"int\tArduino int()"
+			],
+			[
+				"re",
+				"remoteCheck"
+			],
+			[
+				"Hi",
+				"HIGH"
+			],
+			[
+				"HIGH",
+				"HIGH"
+			],
+			[
+				"de",
+				"delay\tArduino delay()"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"I",
+				"INPUT"
+			],
+			[
+				"pi",
+				"pinMode\tArduino pinMode"
+			],
+			[
+				"ro",
+				"rollRight"
+			],
+			[
+				"gn",
+				"gndA"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ali",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Baru/nanoSenderRelay/nanoSenderRelay.ino",
+			"settings":
+			{
+				"buffer_size": 9079,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Baru/nanoReveicerRelay/nanoReceiverRelay.ino",
+			"settings":
+			{
+				"buffer_size": 9807,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"new fil",
+				"File: New View into File"
+			],
+			[
+				"reset",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 363.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aprianto Nursetiawan/Desktop/.gapps-config",
+		"/C/Users/Aprianto Nursetiawan/Desktop/Baru/nanoReveicerRelay/nanoReceiverRelay.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Baru/nanoSenderRelay/nanoSenderRelay.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Lama/nanoReceiverSerial/nanoReceiverSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Lama/unoSenderSerial/unoSenderSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Baru/nanoReveicerRelay/nanoReceiverRelay.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Testing/remoteCheckTest/remoteCheckTest.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/Testing/relayTest/relayTest.ino",
+		"/C/Users/Aprianto Nursetiawan/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.6.20/cores/arduino/Print.h",
+		"/C/Users/Aprianto Nursetiawan/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.6.20/cores/arduino/Stream.h",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoSenderRelay/nanoSenderRelay.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReveicerRelay/nanoReceiverRelay.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/remoteCheckTest/remoteCheckTest.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/relayTest/relayTest.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReceiverSerial/nanoReceiverSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/unoSenderSerial/unoSenderSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReveicerRelay/nanoReceiverRelay",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/unoSenderSerialBaru/unoSenderSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReceiverSerialBaru/nanoReceiverSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/Desktop/document.xml",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReceiverSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/relayTest.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/nanoReceiverSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/unoSenderSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/unoSenderSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/NanoReceiverSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/NanoReceiverSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/UnoSenderSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/LICENSE",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/NanoReceiverSerial/NanoReceiverSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/UnoSenderSerial/UnoSenderSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/ROV-project.sublime-project",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/NanoReceiverSerial/NanoReceiverSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/OneDrive/Dokumen/Kuliah/Master/Tesis/Perangkat Lunak/Arduino/ROV-project/UnoSenderSerial/UnoSenderSerial.ino",
+		"/C/Users/Aprianto Nursetiawan/Desktop/UnoSenderSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/Desktop/NanoReceiverSerialBaru.ino",
+		"/C/Users/Aprianto Nursetiawan/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.6.20/libraries/Wire/examples/digital_potentiometer/digital_potentiometer.ino",
+		"/C/Users/Aprianto Nursetiawan/AppData/Local/Arduino15/packages/arduino/hardware/avr/1.6.20/libraries/SoftwareSerial/examples/TwoPortReceive/TwoPortReceive.ino",
+		"/C/Users/Aprianto Nursetiawan/AppData/Local/Arduino15/packages.stino-settings",
+		"/C/Users/Aprianto Nursetiawan/Documents/GitHub/google-homepage/styles/main.css",
+		"/C/Users/Aprianto Nursetiawan/Documents/GitHub/google-homepage/index.html",
+		"/C/Users/Aprianto Nursetiawan/Documents/GitHub/google-homepage/google-homepage.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"joystickserial",
+			"int pinState",
+			"multiWrite4Pin",
+			"debugCurrentMillis",
+			"timeElapsed",
+			"currentMillis",
+			"previousMillis",
+			"driver 2",
+			"Driver 1I",
+			"driverI",
+			"driverII",
+			"driverI",
+			"driver I",
+			"Driver I",
+			"driver II",
+			"driver 2",
+			"Driver II",
+			"driver 3",
+			"Driver III",
+			"Driver II",
+			"Driver III",
+			"driver I"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pinState",
+			"currentMillis",
+			"debugTimeElapsed",
+			"debugCurrentMillis",
+			"debugPreviousMillis",
+			"driver 2",
+			"Driver 2",
+			"driver1",
+			"driver2",
+			"driver1",
+			"driver 1",
+			"Driver 1",
+			"driver 2",
+			"Driver 2",
+			"driver 3",
+			"Driver 3",
+			"Driver 2",
+			"Driver 3",
+			"driver 1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Baru/nanoSenderRelay/nanoSenderRelay.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4456,
+								4456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2587.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Baru/nanoReveicerRelay/nanoReceiverRelay.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9448,
+								9448
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Arduino-like IDE/Arduino.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5921.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 88.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 102.0
+	},
+	"output.stino_panel":
+	{
+		"height": 102.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "ROV-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Aprianto Nursetiawan\\Documents\\GitHub\\google-homepage\\google-homepage.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

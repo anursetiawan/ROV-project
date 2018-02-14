@@ -1,3 +1,4 @@
+// Pin name convention
 const int YButton = 2;
 const int AButton = 4;
 const int XButton = 5;
@@ -9,13 +10,16 @@ const int joystickAxisX = A0;
 const int joystickAxisY = A1;
 const int buttons[] = {YButton, AButton, XButton, BButton, menuButton, viewButton, joystickButton};
 
+// These values are used for joystick axis region-ing
 int xValue;
 int yValue;
 
+// These are for joystick button command conversion
 char* joystickValue;
 char* buttonValue;
-char* menuValue = "2";
 
+// Set the lamp to always off at start, "2" means LOW, "1" means HIGH
+char* menuValue = "2";
 bool lampState = LOW;
 
 void setup() {
@@ -32,6 +36,7 @@ void setup() {
   Serial.setTimeout(1000); // gotta go fast
 }
 
+// Main program, only write subroutines here
 void loop() {
 
   xRegion();
@@ -137,4 +142,3 @@ void serialDebug() {
   Serial.print("X = "),Serial.print(map(analogRead(joystickAxisX), 0, 1023, 0, 100)), Serial.print("%"), Serial.print(" | ");
   Serial.print("Y = "),Serial.print(map(analogRead(joystickAxisY), 0, 1023, 0, 100)), Serial.println("%");
 }
-

@@ -1,1 +1,0 @@
-This is a personal project, so currently there is no limitation or guidelines imposed. You are free to do anything you see fit to use or contribute to this project. If there is a pull request, I'll act on it whenever I have the time and willingness to do so.
